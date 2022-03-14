@@ -8,7 +8,7 @@
 3. Redis
 4. celery
 
-## demonstrated concepts
+## Demonstrated concepts
 1. Crosss service communications 
     - RPC 
     - Messaging (pub/subs and queues)
